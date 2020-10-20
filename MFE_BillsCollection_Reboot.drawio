@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T06:36:25.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="WKswOGYwn3oDG7bstR-y" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T06:37:14.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="K8xA2Ub7qfi1-3oPDzJt" version="13.8.0" type="github" pages="2">
   <diagram id="Q-yisilWaRMRs0ZSbcxf" name="Bills Collection - Approver">
     <mxGraphModel dx="1152" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="30" y="11.72" width="875" height="940" as="geometry" />
         </mxCell>
         <mxCell id="fB9JVBKdTHwXwevY102O-80" value="Total Transaction: 6" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="36" y="40" width="144" height="20" as="geometry" />
+          <mxGeometry x="50" y="40" width="144" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fB9JVBKdTHwXwevY102O-81" value="Total Collection Due: PHP 178, 653.00" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="36" y="70" width="294" height="20" as="geometry" />
+          <mxGeometry x="50" y="70" width="294" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tgkvtCJn9DM2HxAnFSPY-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="45" y="250" width="825" height="463.44000000000005" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="5" y="443.44000000000005" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k5Fv5MesE7oB9ST0vC1J-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="36" y="110" width="754" height="80" as="geometry" />
+          <mxGeometry x="50" y="110" width="754" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fB9JVBKdTHwXwevY102O-10" value="Status" style="rounded=1;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;strokeColor=#CED4DA;fillColor=none;" parent="k5Fv5MesE7oB9ST0vC1J-1" vertex="1">
           <mxGeometry x="384" width="170" height="30" as="geometry" />
