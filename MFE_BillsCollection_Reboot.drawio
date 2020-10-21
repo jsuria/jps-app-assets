@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T03:36:51.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="CvJJO9QZ2Z2JTFUSR8td" version="13.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-21T03:38:36.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="V5LLOtU_HeB9T3Ygc2ME" version="13.8.0" type="github" pages="4">
   <diagram id="Q-yisilWaRMRs0ZSbcxf" name="Bills Collection - Approver">
     <mxGraphModel dx="2022" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3-bfLivQ7JCu014vHFn1" name="Modal - Send SMS Verification">
-    <mxGraphModel dx="1149" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bf97I8a821NWNEX8mlfG-0" />
         <mxCell id="Bf97I8a821NWNEX8mlfG-1" parent="Bf97I8a821NWNEX8mlfG-0" />
