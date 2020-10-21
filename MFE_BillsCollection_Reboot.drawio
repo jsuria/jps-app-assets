@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T09:50:50.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="fjxnNzteIxNmnl0IaFB7" version="13.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-21T09:59:31.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="DYIwH3X1bIxF0fmJnWTi" version="13.8.0" type="github" pages="7">
   <diagram id="Q-yisilWaRMRs0ZSbcxf" name="Bills Collection - Approver">
     <mxGraphModel dx="2182" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Bills Collection - Approver" id="BKTLD0rTy2WtpOjuZ0u8">
-    <mxGraphModel dx="2426" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2708" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hHbv9a0LNcprmU8HEaRU-0" />
         <mxCell id="hHbv9a0LNcprmU8HEaRU-1" parent="hHbv9a0LNcprmU8HEaRU-0" />
@@ -736,7 +736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fKQovA9FEBCto5yDDUpR" name="Contact Management">
-    <mxGraphModel dx="2026" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2308" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eOtVbwVf-g6T9IExGPTB-0" />
         <mxCell id="eOtVbwVf-g6T9IExGPTB-1" parent="eOtVbwVf-g6T9IExGPTB-0" />
@@ -1026,7 +1026,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3-bfLivQ7JCu014vHFn1" name="Modal - Send SMS Verification">
-    <mxGraphModel dx="1352" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bf97I8a821NWNEX8mlfG-0" />
         <mxCell id="Bf97I8a821NWNEX8mlfG-1" parent="Bf97I8a821NWNEX8mlfG-0" />
@@ -1290,11 +1290,59 @@
         <mxCell id="1lGU5wvgrLbAMqMkiTYZ-80" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#000000;" vertex="1" parent="Bf97I8a821NWNEX8mlfG-1">
           <mxGeometry x="90" y="60" width="920" height="640" as="geometry" />
         </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-0" value="Send SMS Verification (All Users)" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=20;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;fontStyle=1" vertex="1" parent="Bf97I8a821NWNEX8mlfG-1">
+          <mxGeometry x="325" y="100" width="450" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-1" value="Message" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=1;strokeWidth=2;fontColor=#596780" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-2" value="" style="dashed=0;html=1;rounded=1;fillColor=#F7F8F9;strokeColor=#E0E2E7;arcSize=7;align=left;spacingLeft=10;fontColor=#596780" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry width="370" height="80" relative="1" as="geometry">
+            <mxPoint x="20" y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-3" value="0/160 characters" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=0;strokeWidth=2;fontColor=#596780" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="22" y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-5" value="Save as new profile (receivers not included)" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry width="12" height="12" relative="1" as="geometry">
+            <mxPoint x="22" y="310" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-6" value="Send" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="1" y="1" width="60" height="33" relative="1" as="geometry">
+            <mxPoint x="-140" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-7" value="Cancel" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#596780" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="1" y="1" width="50" height="33" relative="1" as="geometry">
+            <mxPoint x="-70" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-8" value="Broadcast a verification message via SMS to all users" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=0;strokeWidth=2;fontColor=#596780" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="20" y="50.003658536585355" width="100" height="26.341463414634145" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-9" value="Include link to download and install TayoCash app" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="22" y="280" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-17" value="Download and install TayoCash at &lt;u style=&quot;font-size: 10px;&quot;&gt;https://bit.ly/31oTKIQ&lt;/u&gt;" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=10;align=left;fontStyle=0;strokeWidth=2;fontColor=#999999;" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="30" y="170.00365853658536" width="100" height="26.341463414634145" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-18" value="&lt;h1 style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;Et dolore magna aliqua&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=40;fontSize=10;fontColor=#999999;" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="26" y="130" width="354" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ue-6HOC5KhoHJcgWtCp-19" value="Send email notification to admin account" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;strokeColor=none;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;fillColor=#CCCCCC;" vertex="1" parent="1Ue-6HOC5KhoHJcgWtCp-0">
+          <mxGeometry x="22" y="340" width="12" height="12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6yF-CVpAUKixGCkHYN0k" name="Modal - Send SMS Verification (Selected)">
-    <mxGraphModel dx="527" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p0IS1yPQoaN-ZI33UjIg-0" />
         <mxCell id="p0IS1yPQoaN-ZI33UjIg-1" parent="p0IS1yPQoaN-ZI33UjIg-0" />
@@ -1586,7 +1634,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modal - Import Users" id="wbOwQjyR8FoA752s_QKb">
-    <mxGraphModel dx="1908" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nOx08tgPKlxw8hzT-4oN-0" />
         <mxCell id="nOx08tgPKlxw8hzT-4oN-1" parent="nOx08tgPKlxw8hzT-4oN-0" />
@@ -1966,7 +2014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Notification - Sending SMS" id="1vlKkfVPcqPf95AiG-Q3">
-    <mxGraphModel dx="2826" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sdaGIFdvPk-YEF54kQTB-0" />
         <mxCell id="sdaGIFdvPk-YEF54kQTB-1" parent="sdaGIFdvPk-YEF54kQTB-0" />
