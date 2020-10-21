@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T03:38:36.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="V5LLOtU_HeB9T3Ygc2ME" version="13.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-21T03:48:41.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="81RAOTQ2mS9HRGp7hOeX" version="13.8.0" type="github" pages="4">
   <diagram id="Q-yisilWaRMRs0ZSbcxf" name="Bills Collection - Approver">
     <mxGraphModel dx="2022" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3-bfLivQ7JCu014vHFn1" name="Modal - Send SMS Verification">
-    <mxGraphModel dx="1119" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bf97I8a821NWNEX8mlfG-0" />
         <mxCell id="Bf97I8a821NWNEX8mlfG-1" parent="Bf97I8a821NWNEX8mlfG-0" />
@@ -767,7 +767,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6yF-CVpAUKixGCkHYN0k" name="Modal - Send SMS Verification (Selected)">
-    <mxGraphModel dx="927" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="953" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p0IS1yPQoaN-ZI33UjIg-0" />
         <mxCell id="p0IS1yPQoaN-ZI33UjIg-1" parent="p0IS1yPQoaN-ZI33UjIg-0" />
@@ -985,7 +985,7 @@
           <mxGeometry width="920" height="640" as="geometry" />
         </mxCell>
         <mxCell id="MCSdbWpaMOW-SlTlqCRE-69" value="Send SMS Verification (Target Users)" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=20;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;fontStyle=1" vertex="1" parent="MCSdbWpaMOW-SlTlqCRE-0">
-          <mxGeometry x="260" y="50" width="410" height="540" as="geometry" />
+          <mxGeometry x="260" y="50" width="450" height="540" as="geometry" />
         </mxCell>
         <mxCell id="MCSdbWpaMOW-SlTlqCRE-70" value="Message" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=1;strokeWidth=2;fontColor=#596780" vertex="1" parent="MCSdbWpaMOW-SlTlqCRE-69">
           <mxGeometry width="100" height="20" relative="1" as="geometry">
@@ -1053,6 +1053,12 @@
         </mxCell>
         <mxCell id="OTVaugtWNiDiVvXtF87D-8" value="+100 more..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;opacity=40;" vertex="1" parent="MCSdbWpaMOW-SlTlqCRE-69">
           <mxGeometry x="22" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q5CnioVg3tYAjoLlAumI-0" value="Download and install TayoCash at &lt;u style=&quot;font-size: 10px;&quot;&gt;https://bit.ly/31oTKIQ&lt;/u&gt;" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=10;align=left;fontStyle=0;strokeWidth=2;fontColor=#999999;" vertex="1" parent="MCSdbWpaMOW-SlTlqCRE-69">
+          <mxGeometry x="30" y="250.00365853658536" width="100" height="26.341463414634145" as="geometry" />
+        </mxCell>
+        <mxCell id="q5CnioVg3tYAjoLlAumI-2" value="&lt;h1 style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;Et dolore magna aliqua&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=40;fontSize=10;fontColor=#999999;" vertex="1" parent="MCSdbWpaMOW-SlTlqCRE-69">
+          <mxGeometry x="26" y="210" width="354" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
